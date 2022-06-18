@@ -1,0 +1,6 @@
+{
+	"userid" : "123412341234123412", #Your Discord User ID (ID of the Account to Ping when Captcha is Required) How to get: https://www.businessinsider.com/discord-id
+	"webhook" : "https://discord.com/api/webhooks/987357898097172591/JZidc0AuASFqnBcdWgN09NE8PsgSG6ciyEDghm_qNdEq", #Your Discord Webhook How to create: https://www.socialoomph.com/help/view/help_discord_webhook_how/
+	"mode" : "owo sell all" What to do with the Animals (Sell/Sacrifice)
+	"startbutton" : "a" #You can us Numbers, Letters, Funktion Keys like F1 etc.
+}
